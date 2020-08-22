@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-08T09:01:33Z" name="Default suite" finished-at="2020-08-08T09:01:34Z" duration-ms="966">
+    <groups>
+    </groups>
+    <test started-at="2020-08-08T09:01:33Z" name="Default test" finished-at="2020-08-08T09:01:34Z" duration-ms="966">
+      <class name="com.DataProvidersOfTestng.Dataprovider">
+        <test-method signature="m1(double, java.lang.String, double, java.lang.String)[pri:0, instance:com.DataProvidersOfTestng.Dataprovider@1e1a0406]" started-at="2020-08-08T09:01:34Z" name="m1" data-provider="Testdata" finished-at="2020-08-08T09:01:34Z" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vikas]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[50000.12]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(double, java.lang.String, double, java.lang.String)[pri:0, instance:com.DataProvidersOfTestng.Dataprovider@1e1a0406]" started-at="2020-08-08T09:01:34Z" name="m1" data-provider="Testdata" finished-at="2020-08-08T09:01:34Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ajit]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[53000.36]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hadapsar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(double, java.lang.String, double, java.lang.String)[pri:0, instance:com.DataProvidersOfTestng.Dataprovider@1e1a0406]" started-at="2020-08-08T09:01:34Z" name="m1" data-provider="Testdata" finished-at="2020-08-08T09:01:34Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vijay]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[42300.235]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[satara]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(double, java.lang.String, double, java.lang.String)[pri:0, instance:com.DataProvidersOfTestng.Dataprovider@1e1a0406]" started-at="2020-08-08T09:01:34Z" name="m1" data-provider="Testdata" finished-at="2020-08-08T09:01:34Z" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jay]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[42000.36]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kolhapur]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(double, java.lang.String, double, java.lang.String)[pri:0, instance:com.DataProvidersOfTestng.Dataprovider@1e1a0406]" started-at="2020-08-08T09:01:34Z" name="m1" data-provider="Testdata" finished-at="2020-08-08T09:01:34Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sanjay]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[36523.3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sangli]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- com.DataProvidersOfTestng.Dataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
